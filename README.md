@@ -1,6 +1,6 @@
 # Zerogro
 Zerogro is a stock trading platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
-The platform allows users to track stock prices, perform transactions, view their portfolio, and manage their investments..
+The platform allows users to track stock prices, perform transactions, view their portfolio, and manage their investments.
 
 **Tech Stack:**
 
